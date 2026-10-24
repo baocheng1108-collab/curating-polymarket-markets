@@ -1,0 +1,4 @@
+interface:
+  display_name: "Polymarket 市场整理"
+  short_description: "整理、去重并审计 Polymarket 双语市场 JSON"
+  default_prompt: "Use $curating-polymarket-markets to curate unresolved Polymarket questions, enforce category and deadline constraints, exclude historical events, and produce audited English and Chinese JSON."
